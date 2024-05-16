@@ -18,5 +18,7 @@ public class Ball extends Actor
         if(isAtEdge()){
             turn(-45);
         }
+        //I would smash Mr. Demeter :heart eyes
+        GYATT
     }
 }
