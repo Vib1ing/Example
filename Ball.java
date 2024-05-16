@@ -15,6 +15,8 @@ public class Ball extends Actor
     public void act()
     {
         move(5);
+        move(10);
+        // <3
         if(isAtEdge()){
             turn(-45);
         }
