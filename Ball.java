@@ -21,6 +21,6 @@ public class Ball extends Actor
             turn(-45);
         }
         //I would smash Mr. Demeter :heart eyes
-        GYATT
+        //GYATT
     }
 }
